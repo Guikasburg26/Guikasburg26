@@ -18,6 +18,5 @@
   <img align="center" alt="gui-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gui-php" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="gui-laravel" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="gui-drupal" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original-wordmark.svg">
   <img align="center" alt="gui-MySql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
